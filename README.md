@@ -20,7 +20,7 @@ A Tampermonkey userscript that backs up and exports your Microsoft 365 Copilot c
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Edge, Firefox, …).
 2. Install the script, either:
-   - open the raw file URL — `https://raw.githubusercontent.com/DV64/CopilotKeep/main/m365-exporter.user.js` — and Tampermonkey offers a one-click install, or
+   - open the raw file URL — `https://raw.githubusercontent.com/DV64/CopilotKeep/main/copilotkeep.user.js` — and Tampermonkey offers a one-click install, or
    - create a new script in the Tampermonkey dashboard and paste the file contents.
 3. Open `https://m365.cloud.microsoft/` or `https://copilot.cloud.microsoft/` — a **↓** launcher button appears at the bottom-right corner.
 
